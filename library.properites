@@ -1,0 +1,11 @@
+name=AskGemini
+version=1.0.0
+author=William E. Webb
+maintainer=William E. Webb
+sentence=Lightweight Gemini API client for ESP32 with optimized HTTPS for ESP32-S3.
+paragraph=Provides a simple interface for calling Google Gemini models from ESP32 boards using persistent TLS, clean JSON extraction, and Arduino-friendly design. Includes examples for basic usage, instruction mode, and repeat mode.
+category=Communication
+url=https://github.com/bill-orange/AskGemini
+architectures=esp32
+includes=AskGemini.h
+license=MIT
